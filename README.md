@@ -1,2 +1,2 @@
 # pairdown-images
-Pairdown 的图床：网关上传的图片
+Image hosting for Pairdown (uploaded by the local gateway)
